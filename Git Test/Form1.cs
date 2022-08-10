@@ -19,7 +19,7 @@ namespace Git_Test
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            label1.Text = "Hello changing code directly on the main line!";
+            label1.Text = "Hello first change!";
         }
     }
 }
